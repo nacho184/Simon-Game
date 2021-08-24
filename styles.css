@@ -26,7 +26,8 @@ body {
   border-radius: 20%;
 }
 
-@media screen and (max-width: 900px) {
+@media (max-width: 600px) {
+       
   
   .btn {
     border-radius: 20%;
